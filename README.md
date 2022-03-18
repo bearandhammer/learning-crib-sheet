@@ -14,7 +14,7 @@ A drop zone for links and materials around topics I would like to delve into (or
 
 ## 1.1. Introduction
 
-Each section will denote a subject that I am actively trying to investigate, covering topics required for work and for personal blogging. This document will adjust over time as I cover topics in as much detail as required (at the given time).
+Each section will denote a subject that I am trying to delve deeper into, covering topics required for work and for personal blogging. This document will adjust over time as I hit topics in as much detail as required (at the given time).
 
 ---
 
@@ -30,7 +30,7 @@ An interesting list of tools (systems, networks, devops, etc.):
 
 ## 3. Running Docker on Windows without Docker Desktop
 
-Something I would like to look into (using just the Docker engine and WSL2). The following documents interesting resources around this (note, only concerned with Linux containers for the moment).
+Something I would like to look into (using just the Docker engine and WSL2). The following are interesting resources that indicate how to achieve this (note, only concerned with Linux containers for the moment).
   
 ## 3.1 Installing WSL (specific guides)
 
