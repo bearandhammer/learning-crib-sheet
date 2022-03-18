@@ -4,11 +4,13 @@ A drop zone for links and materials around topics I would like to delve into (or
 
 - [1. Learning Crib Sheet](#1-learning-crib-sheet)
   - [1.1. Introduction](#11-introduction)
-  - [2. Running Docker on Windows without Docker Desktop](#2-running-docker-on-windows-without-docker-desktop)
-  - [2.1 Installing WSL (specific guides)](#21-installing-wsl-specific-guides)
-  - [2.2. Installing Docker on Windows without Docker Desktop](#22-installing-docker-on-windows-without-docker-desktop)
-  - [3. Copying data between Azure Cosmos Collections (MongoDB API)](#3-copying-data-between-azure-cosmos-collections-mongodb-api)
-  - [3.1. Tooling for Copying data](#31-tooling-for-copying-data)
+  - [2. Utilities/Helpful Resources](#2-utilitieshelpful-resources)
+  - [2.1. The Book of Secret Knowledge](#21-the-book-of-secret-knowledge)
+  - [3. Running Docker on Windows without Docker Desktop](#3-running-docker-on-windows-without-docker-desktop)
+  - [3.1 Installing WSL (specific guides)](#31-installing-wsl-specific-guides)
+  - [3.2. Installing Docker on Windows without Docker Desktop](#32-installing-docker-on-windows-without-docker-desktop)
+  - [4. Copying data between Azure Cosmos Collections (MongoDB API)](#4-copying-data-between-azure-cosmos-collections-mongodb-api)
+  - [4.1. Tooling for Copying data](#41-tooling-for-copying-data)
 
 ## 1.1. Introduction
 
@@ -16,15 +18,25 @@ Each section will denote a subject that I am actively trying to investigate, cov
 
 ---
 
-## 2. Running Docker on Windows without Docker Desktop
+## 2. Utilities/Helpful Resources
+
+## 2.1. The Book of Secret Knowledge
+
+An interesting list of tools (systems, networks, devops, etc.):
+
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+---
+
+## 3. Running Docker on Windows without Docker Desktop
 
 Something I would like to look into (using just the Docker engine and WSL2). The following documents interesting resources around this (note, only concerned with Linux containers for the moment).
   
-## 2.1 Installing WSL (specific guides)
+## 3.1 Installing WSL (specific guides)
 
 - [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install).
 
-## 2.2. Installing Docker on Windows without Docker Desktop
+## 3.2. Installing Docker on Windows without Docker Desktop
 
 - [Install Docker on Windows (WSL) without Docker Desktop](https://dev.to/bowmanjd/install-docker-on-windows-wsl-without-docker-desktop-34m9).
 - [Install Docker Engine without Docker Desktop on Windows](https://jflower.co.uk/install-docker-engine-without-docker-desktop-on-windows/).
@@ -34,11 +46,11 @@ Something I would like to look into (using just the Docker engine and WSL2). The
 
 ---
 
-## 3. Copying data between Azure Cosmos Collections (MongoDB API)
+## 4. Copying data between Azure Cosmos Collections (MongoDB API)
 
 We have a requirement to fully port environments (e.g. a live to test restore, of sorts). The following documentation discusses facilitating this (using tools such as Azure Data Factory).
 
-## 3.1. Tooling for Copying data
+## 4.1. Tooling for Copying data
 
 - [Copy data to or from Azure Cosmos DB's API for MongoDB using Azure Data Factory or Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-cosmos-db-mongodb-api?tabs=data-factory).
 - [Azure Cosmos DB Data Migration tool](https://microsoft.github.io/AzureTipsAndTricks/blog/tip334.html).
