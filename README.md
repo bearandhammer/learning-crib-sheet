@@ -25,7 +25,7 @@ Each section will denote a subject that I am trying to delve deeper into, coveri
 
 An interesting list of tools (systems, networks, devops, etc.):
 
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge).
 
 ---
 
