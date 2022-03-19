@@ -6,6 +6,7 @@ A drop zone for links and materials around topics I would like to delve into (or
   - [1.1. Introduction](#11-introduction)
   - [2. Utilities/Helpful Resources](#2-utilitieshelpful-resources)
   - [2.1. The Book of Secret Knowledge](#21-the-book-of-secret-knowledge)
+  - [2.2. Awesome .NET!](#22-awesome-net)
   - [3. Running Docker on Windows without Docker Desktop](#3-running-docker-on-windows-without-docker-desktop)
   - [3.1 Installing WSL (specific guides)](#31-installing-wsl-specific-guides)
   - [3.2. Installing Docker on Windows without Docker Desktop](#32-installing-docker-on-windows-without-docker-desktop)
@@ -26,6 +27,12 @@ Each section will denote a subject that I am trying to delve deeper into, coveri
 An interesting list of tools (systems, networks, devops, etc.):
 
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge).
+
+## 2.2. Awesome .NET!
+
+A collection of .NET tools, libraries, etc. (with a fair few contributors) to investigate:
+
+- [Awesome .NET](https://github.com/quozd/awesome-dotnet).
 
 ---
 
