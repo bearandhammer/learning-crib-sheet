@@ -8,6 +8,7 @@ A drop zone for links and materials around topics I would like to delve into (or
   - [2.1. The Book of Secret Knowledge](#21-the-book-of-secret-knowledge)
   - [2.2. Awesome .NET!](#22-awesome-net)
   - [2.3. Awesome .NET Core](#23-awesome-net-core)
+  - [2.4. Throw library](#24-throw-library)
   - [3. Running Docker on Windows without Docker Desktop](#3-running-docker-on-windows-without-docker-desktop)
   - [3.1 Installing WSL (specific guides)](#31-installing-wsl-specific-guides)
   - [3.2. Installing Docker on Windows without Docker Desktop](#32-installing-docker-on-windows-without-docker-desktop)
@@ -42,6 +43,10 @@ A collection of .NET tools, libraries, etc. (with a fair few contributors) to in
 - [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core).
 
 ***Consider contributing to this (caching?)***
+
+## 2.4. Throw library
+
+- [Throw](https://github.com/mantinband/throw).
 
 ---
 
