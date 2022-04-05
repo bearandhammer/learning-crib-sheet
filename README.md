@@ -15,6 +15,7 @@ A drop zone for links and materials around topics I would like to delve into (or
   - [3.1. Docker for development](#31-docker-for-development)
   - [4. Copying data between Azure Cosmos Collections (MongoDB API)](#4-copying-data-between-azure-cosmos-collections-mongodb-api)
   - [4.1. Tooling for Copying data](#41-tooling-for-copying-data)
+  - [5. Azure Data Lake Research](#5-azure-data-lake-research)
 
 ## 1.1. Introduction
 
@@ -80,3 +81,7 @@ We have a requirement to fully port environments (e.g. a live to test restore, o
 
 - [Copy data to or from Azure Cosmos DB's API for MongoDB using Azure Data Factory or Synapse Analytics](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-cosmos-db-mongodb-api?tabs=data-factory).
 - [Azure Cosmos DB Data Migration tool](https://microsoft.github.io/AzureTipsAndTricks/blog/tip334.html).
+
+## 5. Azure Data Lake Research
+
+- [Microsoft Azure Data Lake Storage Service (Gen1 & Gen2)](https://www.udemy.com/course/microsoft-azure-data-lake/).
