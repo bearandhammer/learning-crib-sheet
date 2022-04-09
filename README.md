@@ -12,7 +12,7 @@ A drop zone for links and materials around topics I would like to delve into (or
   - [3. Running Docker on Windows without Docker Desktop](#3-running-docker-on-windows-without-docker-desktop)
   - [3.1 Installing WSL (specific guides)](#31-installing-wsl-specific-guides)
   - [3.2. Installing Docker on Windows without Docker Desktop](#32-installing-docker-on-windows-without-docker-desktop)
-  - [3.1. Docker for development](#31-docker-for-development)
+  - [3.3. Docker for development](#33-docker-for-development)
   - [4. Copying data between Azure Cosmos Collections (MongoDB API)](#4-copying-data-between-azure-cosmos-collections-mongodb-api)
   - [4.1. Tooling for Copying data](#41-tooling-for-copying-data)
   - [5. Azure Data Lake Research](#5-azure-data-lake-research)
@@ -67,7 +67,7 @@ Something I would like to look into (using just the Docker engine and WSL2). The
 - [How To Live Without Docker Desktop — A Developer’s Perspective](https://www.objectivity.co.uk/blog/how-to-live-without-docker-desktop-developers-perspective/).
 - [Run Docker in WSL (Windows 10/11) without Docker Desktop](https://medium.com/geekculture/run-docker-in-windows-10-11-wsl-without-docker-desktop-a2a7eb90556d).
 
-## 3.1. Docker for development
+## 3.3. Docker for development
 
 - [.NET Development in Docker with Dev Containers](https://itnext.io/net-development-in-docker-6509d8a5077b).
 
